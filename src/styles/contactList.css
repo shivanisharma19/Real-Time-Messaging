@@ -1,0 +1,16 @@
+.contact-items {
+    display: grid;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    border: groove 1px rgb(215, 225, 233);
+    &:nth-child(even) { background: #F2F2F2 };
+    &:nth-child(odd) { background: #d8d6d6 };
+    transition: color 0.3s ease, background-color 0.3s ease;
+
+    &:hover {
+        background-color: #0a2310;;
+        color: #d8d6d6;
+    }
+}
