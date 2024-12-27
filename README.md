@@ -1,7 +1,7 @@
 # Real-Time-Messaging
  
 A WhatsApp Web-like application using React, Typescript, InstantDB. 
-The documentation for ui-template [UI/UX](./docs/ui-template.md) and technologies used [tech-used](./docs/technology%20-used.md) can be find under `./docs`.
+The documentation for ui-template [UI/UX](./docs/ui-template.md),  technologies used [tech-used](./docs/technology%20-used.md), and isssues faced [issues](./docs/IssuesFaced.md) can be find under `./docs`.
 
 ## Features
 
